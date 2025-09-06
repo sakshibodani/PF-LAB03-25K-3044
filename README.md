@@ -1,10 +1,1 @@
-# My Favorite Websites
-_Here are my top 3 websites that i use:_
-1. Google
-2. Youtube
-3. Github\
-Some cool feature of github are
-- free coding hsoting
-- collaborations
-- version control with git\
-**Github is the best website for developers**
+Hi, I am Sakshi Bodani, and I just turned 19. I recently enrolled at Fast-NUCES hoping for some amazing experiences. Though I am starting to realize those experiences mostly involve rushing to submit assignments before deadlines hit. Why I chose software engineering, and what are my interests related to programming? Software engineering, because it focuses especially on programming languages, unlike other computer science tracks. Programming really fascinates me, the way different languages have their own unique syntax, creates such interesting mental challenges and I am excited to tackle them. I am particularly drawn to web development and mobile app creation and I am curious about exploring areas like machine learning and game development as I advance in my studies
