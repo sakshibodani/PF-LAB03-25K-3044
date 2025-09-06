@@ -7,4 +7,4 @@ Some cool feature of github are
 - free coding hsoting
 - collaborations
 - version control with git\
-  **github is the best website for developers**
+**Github is the best website for developers**
