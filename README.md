@@ -1,2 +1,10 @@
-Hi! I'm Sakshi Bodani, and I just turned 19. I recently enrolled at FAST-NUCES hoping for some amazing experiences, though I'm starting to realize those "experiences" mostly involve rushing to submit assignments before deadlines hit!
-Why I chose software engineering? And what are my interests related to Programming? SE because it focuses specifically on programming languages, unlike other computer science tracks. Programming really fascinates me - the way different languages have their own unique syntax creates such interesting mental challenges, and I'm excited to tackle them. I'm particularly drawn to web development and mobile app creation, and I'm curious about exploring areas like machine learning and game development as I advance in my studies. The problem-solving aspect of coding and building something functional from scratch really appeals to me.
+# My Favorite Websites
+_Here are my top 3 websites that is use:_
+1. Google
+2. Youtube
+3. Github
+Some cool feature of github are
+- free coding hsoting
+- collaborations
+- version control with git
+  **github is the best website for developers**
